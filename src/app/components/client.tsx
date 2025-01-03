@@ -22,7 +22,7 @@ export default function Client() {
 
                         {/* Text */}
                         <h2 className="font-bold sm:text-xl text-2xl text-[#FF9F0D]">Professional Chefs</h2>
-                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">420</p>
+                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">410</p>
                     </div>
 
                     <div className="p-4 sm:w-1/4 w-1/2 flex flex-col items-center">
@@ -33,7 +33,7 @@ export default function Client() {
 
                         {/* Text */}
                         <h2 className="font-bold sm:text-xl text-2xl text-[#FF9F0D]">Items of Food</h2>
-                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">320</p>
+                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">340</p>
                     </div>
 
                     <div className="p-4 sm:w-1/4 w-1/2 flex flex-col items-center">
@@ -44,7 +44,7 @@ export default function Client() {
 
                         {/* Text */}
                         <h2 className="font-bold sm:text-xl text-2xl text-[#FF9F0D]">Years of Experience</h2>
-                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">30+</p>
+                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">25+</p>
                     </div>
 
                     <div className="p-4 sm:w-1/4 w-1/2 flex flex-col items-center">
@@ -55,7 +55,7 @@ export default function Client() {
 
                         {/* Text */}
                         <h2 className="font-bold sm:text-xl text-2xl text-[#FF9F0D]">Happy Customers</h2>
-                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">220</p>
+                        <p className="leading-relaxed text-gray-300 text-[30px] font-bold">350</p>
                     </div> 
                 </div>
             </div>

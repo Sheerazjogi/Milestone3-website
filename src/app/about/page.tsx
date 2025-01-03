@@ -1,8 +1,8 @@
 import Image from "next/image";
-import aboutpg1 from "@/app/images/aboutpg1.png";
-import aboutpg2 from "@/app/images/aboutpg2.png";
-import aboutpg3 from "@/app/images/aboutpg3.png";
-import aboutpg4 from "@/app/images/aboutpg4.png";
+import aboutpg1 from "@/app/images/aboutpg1.jpg";
+import aboutpg2 from "@/app/images/aboutpg2.jpg";
+import aboutpg3 from "@/app/images/aboutpg3.jpg";
+import aboutpg4 from "@/app/images/aboutpg4.jpg";
 import { IoPlayOutline } from "react-icons/io5";
 import student from '@/app/images/Student.png';
 import coffee from '@/app/images/Coffee.png';
@@ -71,16 +71,16 @@ export default function About() {
               About us
             </h1>
             <p className="text-black title-font text-xl md:text-3xl font-bold">
-              Food is an important part of a balanced Diet
+              Food plays a crucial role in maintaining a balanced diet.
             </p>
             <p className="mb-6 leading-relaxed mt-4 text-[#333333] text-sm md:text-base md:leading-relaxed">
-            Food is an essential part of a balanced diet, providing the nutrients and energy needed to maintain a healthy lifestyle. At Food Tuck, we believe in offering delicious and nutritious meals that support your well-being. Our focus is on using fresh, high-quality ingredients to create flavorful dishes that not only satisfy your cravings but also contribute to your overall health.
+            Food is necessary for a balanced diet, supplying the energy and nutrients vital for a healthy life.
             </p>
             <p className="mb-6 leading-relaxed mt-4 text-[#333333] text-sm md:text-base md:leading-relaxed">
-            At Food Tuck, we understand that food is not just about taste, but about nourishing the body and soul. Our team of culinary experts is dedicated to crafting meals that are both wholesome and satisfying, bringing together the finest ingredients to ensure each dish supports your nutritional needs. Whether you&apos;re looking for a quick snack, a wholesome meal, or a delightful treat, we are committed to providing food that fuels your lifestyle.
+            At Food Tuck, we are dedicated to serving tasty and healthy meals that enhance your wellness.
             </p>
             <p className="mb-6 leading-relaxed mt-4 text-[#333333] text-sm md:text-base md:leading-relaxed">
-            We take pride in sourcing ingredients from trusted suppliers and focusing on sustainability. Every dish we prepare is made with care and attention to detail, ensuring that you experience the perfect balance of flavor, texture, and nutrition. At Food Tuck, we believe that great food should be accessible, enjoyable, and beneficial for your health, helping you stay energized and motivated throughout your day.
+            We prioritize fresh, top-quality ingredients to craft dishes that satisfy your taste buds and promote your health.
             </p>
             <div className="flex flex-row justify-center md:justify-start gap-4">
               {/* Button 1 */}

@@ -1,8 +1,9 @@
 import React from "react";
 import { TiTick } from "react-icons/ti";
-import restu1 from "@/app/images/restu1.png";
+//import restu1 from "@/app/images/.png";
+import restu1 from"@/app/images/restu1.jpg";
 import restu2 from "@/app/images/restu2.png";
-import restu3 from "@/app/images/restu3.png";
+import restu3 from "@/app/images/restu3.jpg";
 import Image from "next/image";
 
 export default function AboutUs() {
@@ -20,12 +21,10 @@ export default function AboutUs() {
           </h1>
 
           <p className="text-base pt-4 leading-7 text-justify">
-            At our company, we are passionate about creating exceptional food
-            products that deliver the perfect balance of flavor, quality, and
-            convenience. Our products are crafted using the finest ingredients,
-            ensuring a memorable taste experience with every bite. We
-            understand that food is not just about nourishment, but about
-            bringing joy and satisfaction to your daily life.
+          At our company, we are dedicated to producing outstanding food products that offer an ideal blend of taste, 
+          quality, and convenience. We use premium ingredients to create our products, 
+          guaranteeing an unforgettable flavor in every bite.
+           We believe that food is not only about sustenance but also about bringing happiness and fulfillment to your everyday life.
           </p>
           <div className="space-y-4">
             <div className="flex items-start gap-3">

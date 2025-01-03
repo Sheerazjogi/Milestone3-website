@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { FaSearch, FaShareAlt, FaShoppingCart, FaHeart } from "react-icons/fa";
 import Navbar from "../components/secondheader";
-import blogauthor from "@/app/images/blogauthor.png";
+import blogauthor from "@/app/images/blogauthor.jpg";
 
 interface Product {
   idMeal: string;

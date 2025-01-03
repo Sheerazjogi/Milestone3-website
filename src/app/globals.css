@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .client-bg-image {
-    background-image: url("images/backgroundHeader.png");
+    background-image: url("images/backgroundHeader.jpg");
     background-size: cover; /* Adjust to your needs */
     background-position: center;
     background-repeat: no-repeat;

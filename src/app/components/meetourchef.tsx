@@ -1,9 +1,9 @@
 import Image from 'next/image'
 import React from 'react'
-import chef1 from "@/app/images/chef1.png";
-import chef2 from "@/app/images/chef2.png";
-import chef3 from "@/app/images/chef3.png";
-import chef4 from "@/app/images/chef4.png";
+import chef1 from "@/app/images/chef1.jpg"
+import chef2 from "@/app/images/chef2.jpg";
+import chef3 from "@/app/images/chef3.jpg";
+import chef4 from "@/app/images/chef4.jpg";
 
 export default function MeetOurChef() {
     return (
@@ -32,7 +32,7 @@ export default function MeetOurChef() {
                                 className="rounded-lg w-full h-[300px] object-cover object-center"
                             />
                             <div className="w-[200px] h-[70px] absolute bottom-0 bg-[#FFFFFF] text-black px-3 py-2 rounded-bl-md flex flex-col items-start justify-center font-bold">
-                                <p className="text-[18px]">D.Estwood</p>
+                                <p className="text-[18px]">D.Bobby flay</p>
                                 <p className="text-[14px]">Chief Chef</p>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ export default function MeetOurChef() {
                                 className="rounded-lg w-full h-[300px] object-cover object-center"
                             />
                             <div className="w-[200px] h-[70px] absolute bottom-0 bg-[#FFFFFF] text-black px-3 py-2 rounded-bl-md flex flex-col items-start justify-center font-bold">
-                                <p className="text-[18px]">D.Scoriesh</p>
+                                <p className="text-[18px]">D.Gordan Ramsay</p>
                                 <p className="text-[14px]">Assistant Chef</p>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ export default function MeetOurChef() {
                                 className="rounded-lg w-full h-[300px] object-cover object-center"
                             />
                             <div className="w-[200px] h-[70px] absolute bottom-0 bg-[#FFFFFF] text-black px-3 py-2 rounded-bl-md flex flex-col items-start justify-center font-bold">
-                                <p className="text-[18px]">M. William</p>
+                                <p className="text-[18px]">M.john</p>
                                 <p className="text-[14px]">Advertising Chef</p>
                             </div>
                         </div>
@@ -77,7 +77,7 @@ export default function MeetOurChef() {
                                 className="rounded-lg w-full h-[300px] object-cover object-center"
                             />
                             <div className="w-[200px] h-[70px] absolute bottom-0 bg-[#FFFFFF] text-black px-3 py-2 rounded-bl-md flex flex-col items-start justify-center font-bold">
-                                <p className="text-[18px]">W.Readfroad</p>
+                                <p className="text-[18px]">M.Alain Ducasse</p>
                                 <p className="text-[14px]">Chef</p>
                             </div>
                         </div>

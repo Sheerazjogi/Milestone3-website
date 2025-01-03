@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import React from 'react';
 import { FaFacebookF, FaTwitter, FaPinterestP } from 'react-icons/fa';
-import hero1 from "@/app/images/hero1.png";
+//import hero1 from "@/app/images/hero1.png";
+import hero1 from"@/app/images/hero1.jpg";
 import Link from 'next/link';
 
 export default function Hero() {

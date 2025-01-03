@@ -1,5 +1,5 @@
 import Image from "next/image";
-import testinomial from "@/app/images/testinomial.png";
+import testinomial from "@/app/images/testinomial.jpg";
 import quote from "@/app/images/Quote.png";
 
 export default function Testimonial() {
@@ -37,12 +37,12 @@ export default function Testimonial() {
 
             {/* Testimonial Content */}
             <p className="text-sm text-gray-800 leading-relaxed">
-              Alamin Hasan, a renowned food specialist, brings a wealth of
-              experience and passion for culinary excellence. With a deep
-              understanding of flavors, ingredients, and cooking techniques,
-              Alamin consistently creates exceptional dishes that captivate the
-              senses. His expertise has made him a trusted figure in the world
-              of food, inspiring others with his skills.
+            Alamin Hasan, a celebrated food expert,
+             brings extensive experience and a true passion for culinary mastery.
+              With a profound knowledge of flavors, ingredients, and cooking methods,
+               Alamin consistently crafts outstanding dishes that engage the senses. 
+               His proficiency has established him as a respected figure in the culinary world,
+                motivating others with his talent.
             </p>
 
             {/* Star Ratings */}
